@@ -1,2 +1,2 @@
 # marijuana-data-project
-This project aims to analyze marijuana arrests within the City of Los Angeles, dating from 2010 onwards. We plan to use pearson’s correlation, and k-nearest neighbors to find correlations between age, sex, race (descent code), and area (based off the 21 Community Police Stations). We would also like to try and figure out charges based on sex, age, and area. Moreover, based on certain ages and locations, we can try and see if certain areas are more likely for a specific crime related to marijuana.
+This project aims to analyze marijuana arrests within the City of Los Angeles, dating from 2010 onwards. 
